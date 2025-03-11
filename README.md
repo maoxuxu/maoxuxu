@@ -8,7 +8,7 @@
 
 ## Some of my Github Stats
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=maoxuxu&show_icons=true&include_all_commits=true)](https://github.com/myx/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=maoxuxu&show_icons=true&include_all_commits=true)](https://github.com/maoxuxu/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maoxuxu&layout=compact)](https://github.com/maoxuxu/github-readme-stats)
 
 ## Activities of the past month
