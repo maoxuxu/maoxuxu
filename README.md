@@ -1,6 +1,6 @@
 ## Hey 👋, This is myx <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" />
 
-- I’m a graduate student at the Software College of Henan University <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Slightly%20Smiling%20Face.png" alt="Slightly Smiling Face" width="25" height="25" />
+- I’m a graduate student at the School of Software, Henan University. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Slightly%20Smiling%20Face.png" alt="Slightly Smiling Face" width="25" height="25" />
 
 - My research focuses on NLP, including Document-level Relation Extraction (DocRE), Dialog-based Aspect Sentiment Questioning (DiaASQ), Named Entity Recognition (NER), and Text Classification (TC) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" alt="Grinning Face with Big Eyes" width="25" height="25" />
 
